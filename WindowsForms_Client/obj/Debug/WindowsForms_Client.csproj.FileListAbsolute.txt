@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\bin\Debug\WindowsForms_Client.exe.config
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\bin\Debug\WindowsForms_Client.exe
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\bin\Debug\WindowsForms_Client.pdb
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\obj\Debug\WindowsForms_Client.Form1.resources
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\obj\Debug\WindowsForms_Client.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\obj\Debug\WindowsForms_Client.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\obj\Debug\WindowsForms_Client.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\obj\Debug\WindowsForms_Client.exe
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\obj\Debug\WindowsForms_Client.pdb
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_Client\obj\Debug\WindowsForms_Client.csproj.AssemblyReference.cache

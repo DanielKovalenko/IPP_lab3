@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\bin\Debug\WindowsForms_IPP3.exe.config
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\bin\Debug\WindowsForms_IPP3.exe
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\bin\Debug\WindowsForms_IPP3.pdb
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\obj\Debug\WindowsForms_IPP3.Form1.resources
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\obj\Debug\WindowsForms_IPP3.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\obj\Debug\WindowsForms_IPP3.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\obj\Debug\WindowsForms_IPP3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\obj\Debug\WindowsForms_IPP3.exe
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\obj\Debug\WindowsForms_IPP3.pdb
+C:\Users\Пользователь\source\repos\WindowsForms_IPP3\WindowsForms_IPP3\obj\Debug\WindowsForms_IPP3.csproj.AssemblyReference.cache
